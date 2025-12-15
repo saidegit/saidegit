@@ -15,19 +15,6 @@ Hands-on offensive security training, research notes, and custom tools.
 
 ---
 
-## 🧠 Skills Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Security-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploit_Development-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Red_Team-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Active_Directory-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Malware_Analysis-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud_Attack_Surface-111111?style=flat-square" />
-</p>
-
----
-
 ## 💻 Programming Languages
 - **Python** — exploit automation, tooling, research
 - **Bash** — offensive automation & post-exploitation

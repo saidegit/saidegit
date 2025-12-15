@@ -1,71 +1,97 @@
-# 👋 Hi, I'm Saide
+# Saide — Offensive Security Researcher
 
-## Offensive Security Researcher | Red Team | Exploit Development
+🔴 **Offensive Security Researcher** focused on vulnerability research, exploit development, and red team tradecraft.  
+I break systems to understand them — and teach others to do so responsibly.
 
-I am an **Offensive Security Researcher** with a strong focus on **finding, exploiting, and understanding real-world vulnerabilities**.  
-My work revolves around breaking systems to help make them more secure.
-
----
-
-## 🛡️ Areas of Focus
-- Web & API Security
-- Vulnerability Research
-- Exploit Development
-- Red Team Techniques
-- Malware & Payload Analysis
-- Privilege Escalation
-- Adversary Emulation
+🌐 **Offensive Security Platform:**  
+👉 **https://offsecplatform.com**  
+Hands-on offensive security training, research notes, and custom tools.
 
 ---
 
-## 🔬 What I Work On
-- Developing proof-of-concept exploits
-- Reverse engineering binaries and malware
-- Security research and write-ups
-- Automation tools for offensive security
-- CTF challenges and labs
-- Custom red team tooling
+## 🔐 Core Expertise
+`Offensive Security` `Red Teaming` `Exploit Development` `Vulnerability Research`  
+`Web & API Security` `Active Directory` `Privilege Escalation` `Malware Analysis`
 
 ---
 
-## 🧰 Tools & Technologies
-- **Languages:** Python, Bash, C, Assembly
-- **Frameworks:** Metasploit, Cobalt Strike, Sliver
+## 🧠 Skills Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Security-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploit_Development-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Red_Team-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Active_Directory-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud_Attack_Surface-111111?style=flat-square" />
+</p>
+
+---
+
+## 💻 Programming Languages
+- **Python** — exploit automation, tooling, research
+- **Bash** — offensive automation & post-exploitation
+- **C** — low-level exploits & memory research
+- **Assembly (x86/x64)** — reverse engineering & shellcode
+- **JavaScript** — client-side & web exploitation
+
+---
+
+## 🧰 Tools & Environments
+- **Frameworks:** Metasploit, Sliver, Cobalt Strike
+- **Analysis:** Ghidra, IDA, Wireshark
+- **Web:** Burp Suite, Nuclei
 - **Platforms:** Linux, Windows, Active Directory
-- **Tools:** Burp Suite, Nmap, Wireshark, Ghidra, IDA
-- **Cloud:** AWS attack surface & misconfigurations
+- **Cloud:** AWS offensive security & misconfigurations
 
 ---
 
-## 📂 Featured Repositories
-> Selected projects related to security research, exploits, and tooling  
-*(Pinned repositories showcase active work and experiments)*
+<details>
+<summary><strong>🔬 Research & Work (click to expand)</strong></summary>
+
+- Proof-of-concept exploit development  
+- Vulnerability discovery & analysis  
+- Red team tooling and automation  
+- Malware and payload analysis  
+- CTFs, labs, and adversary simulation  
+
+Responsible disclosure is always followed.
+
+</details>
 
 ---
 
-## 📖 Research & Write-Ups
-- Vulnerability analyses
-- Exploit walkthroughs
-- Red team tradecraft
-- Security lab notes
+<details>
+<summary><strong>📚 Teaching & Knowledge Sharing (click to expand)</strong></summary>
 
-> I believe in **responsible disclosure** and ethical research.
+I actively teach offensive security through my platform:
 
----
+### 🌐 OffSec Platform
+**https://offsecplatform.com**
 
-## 🎯 Goals
-- Advance offensive security research
-- Publish high-quality technical write-ups
-- Contribute tools and knowledge to the security community
-- Continuously improve red team methodologies
+- Practical offensive security training
+- Red team methodology breakdowns
+- Exploit development walkthroughs
+- Custom tools & scripts
+- Research notes and labs
 
----
+Tools are shared **both here on GitHub and on OffSec Platform**, depending on scope and use case.
 
-## 📫 Contact
-- GitHub: [https://github.com/saidegit](https://github.com/saidegit)
+</details>
 
 ---
 
-> ⚠️ **Disclaimer**  
-> All content in this repository is for **educational and authorized security testing purposes only**.  
-> Do not use any techniques or tools without proper permission.
+## 📂 GitHub
+- Research repositories
+- Exploit PoCs
+- Offensive security tooling
+- Learning resources
+
+🔗 https://github.com/saidegit
+
+---
+
+## ⚠️ Disclaimer
+All content is provided **for educational and authorized security testing only**.  
+Do not use techniques or tools without **explicit permission**.
+
